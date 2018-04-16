@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net471</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="7.1.0" />
+    <PackageReference Include="VVVV.PluginInterfaces" Version="36.0.0" />
+  </ItemGroup>
+
+</Project>
