@@ -1,6 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <Version>1.0.1</Version>
+    <Product>CSVvvv</Product>
+    <Authors>Robin Müller</Authors>
+  </PropertyGroup>
+
+  <PropertyGroup>
     <TargetFramework>net471</TargetFramework>
   </PropertyGroup>
 
